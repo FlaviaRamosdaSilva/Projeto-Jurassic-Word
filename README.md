@@ -9,7 +9,7 @@
 
 
 ## :rocket: Visite o site (projeto publicado):
-:fast_forward:<a href="file:///C:/Users/USER/Desktop/PROGRAMACAO-FLAVIA/Jurassic%20Word%20-%20Dominio/index.html">Jurassic Word Domínio</a>
+:fast_forward:<a href="https://645ad94e59fd3d4df33fb863--meek-crumble-ff12ab.netlify.app/index.html" target:_blank>Jurassic_Word_Dominio</a>
 
 ## :flower_playing_cards: Imagem do Projeto:
 
