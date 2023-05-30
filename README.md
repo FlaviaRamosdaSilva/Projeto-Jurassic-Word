@@ -1,4 +1,4 @@
-## :file_folder: Desafio CSS
+## :file_folder: Jurassic Word
 
 <p>Este projeto foi elaborado como um site de compra de ingressos (ainda sem o JS) onde há várias páginas de interação e alguns recursos mais avançados de CSS. Ele possui um layout responsivo em todas as páginas e links.</p>
 
