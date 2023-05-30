@@ -1,6 +1,6 @@
 ## :file_folder: Desafio CSS
 
-<p>Este projeto foi elaborado como um site de compra de ingressos (ainda sem o JS) onde há várias páginas de interação e alguns recursos mais avançados de CSS.</p>
+<p>Este projeto foi elaborado como um site de compra de ingressos (ainda sem o JS) onde há várias páginas de interação e alguns recursos mais avançados de CSS. Ele possui um layout responsivo em todas as páginas e links.</p>
 
 ## :computer: Tecnologias utilizadas:
 
